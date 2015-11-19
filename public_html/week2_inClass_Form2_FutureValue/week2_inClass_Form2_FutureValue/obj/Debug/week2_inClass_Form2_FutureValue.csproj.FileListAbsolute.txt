@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\bin\Debug\week2_inClass_Form2_FutureValue.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\bin\Debug\week2_inClass_Form2_FutureValue.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\bin\Debug\week2_inClass_Form2_FutureValue.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.frmFutureValue.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\week2_inClass_Form2_FutureValue\week2_inClass_Form2_FutureValue\obj\Debug\week2_inClass_Form2_FutureValue.pdb

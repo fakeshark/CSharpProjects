@@ -1,0 +1,10 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\bin\Debug\Multiform1.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\bin\Debug\Multiform1.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\bin\Debug\Multiform1.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.frmCustomer.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.frmPayment.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\Multiform1\Multiform1\obj\Debug\Multiform1.pdb

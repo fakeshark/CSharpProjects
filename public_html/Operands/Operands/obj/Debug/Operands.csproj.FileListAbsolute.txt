@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\bin\Debug\Operands.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\bin\Debug\Operands.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\bin\Debug\Operands.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.frmOperands.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\Operands\Operands\obj\Debug\Operands.pdb

@@ -1,0 +1,4 @@
+A3VB|Murach's ASP.NET 3.5 with VB 2008|54.5
+JSE6|Murach's Java SE 6|52.5
+VB08|Murach's Visual Basic 2008|54.5
+SQL8|Murach's SQL Server 2008 for Developers|54.5

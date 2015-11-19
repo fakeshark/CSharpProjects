@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.frmSimpleCalculator.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

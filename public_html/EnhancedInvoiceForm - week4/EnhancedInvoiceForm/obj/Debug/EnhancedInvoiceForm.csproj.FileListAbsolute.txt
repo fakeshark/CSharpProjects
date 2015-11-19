@@ -1,0 +1,12 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\bin\Debug\EnhancedInvoiceForm.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.frmEnhancedInvoiceTotal.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\bin\Debug\EnhancedInvoiceForm.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\bin\Debug\EnhancedInvoiceForm.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm - week4\EnhancedInvoiceForm\bin\Debug\EnhancedInvoiceForm.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm - week4\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\EnhancedInvoiceForm - week4\EnhancedInvoiceForm\obj\Debug\EnhancedInvoiceForm.pdb

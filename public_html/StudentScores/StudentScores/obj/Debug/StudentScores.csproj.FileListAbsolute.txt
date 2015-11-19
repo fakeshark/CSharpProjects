@@ -1,0 +1,10 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\bin\Debug\StudentScores.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\bin\Debug\StudentScores.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\bin\Debug\StudentScores.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.frmStudentScores.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.frmUpdateStudentScores.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\StudentScores\StudentScores\obj\Debug\StudentScores.pdb

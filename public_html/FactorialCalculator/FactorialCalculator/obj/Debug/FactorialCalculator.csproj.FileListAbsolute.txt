@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\bin\Debug\FactorialCalculator.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.frmFactorials.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\FactorialCalculator\FactorialCalculator\obj\Debug\FactorialCalculator.pdb

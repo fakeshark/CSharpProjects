@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product Code="A3CS">
+        <Description>Murach's ASP.NET 3.5 with C# 2008</Description>
+        <Price>54.50</Price>
+    </Product>
+    <Product Code="JSE6">
+        <Description>Murach's Java SE 6</Description>
+        <Price>52.50</Price>
+    </Product>
+    <Product Code="CS08">
+        <Description>Murach's C# 2008</Description>
+        <Price>54.50</Price>
+    </Product>
+    <Product Code="SQL8">
+        <Description>Murach's SQL Server 2008 for Developers</Description>
+        <Price>54.50</Price>
+    </Product>
+</Products>

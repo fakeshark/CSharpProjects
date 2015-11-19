@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.frmMadLibs.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\MadLibs\MadLibs\obj\Debug\MadLibs.pdb

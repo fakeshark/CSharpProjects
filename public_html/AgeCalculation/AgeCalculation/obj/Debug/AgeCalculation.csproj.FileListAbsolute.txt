@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\bin\Debug\AgeCalculation.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.frmDateHandling.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\AgeCalculation\AgeCalculation\obj\Debug\AgeCalculation.pdb

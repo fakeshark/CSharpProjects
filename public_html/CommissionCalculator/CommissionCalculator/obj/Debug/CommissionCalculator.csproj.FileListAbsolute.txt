@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\bin\Debug\CommissionCalculator.exe.config
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\bin\Debug\CommissionCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\bin\Debug\CommissionCalculator.pdb
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.frmCommissionCalc.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.Properties.Resources.resources
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.exe
+C:\Users\Brian\Documents\!School!\!!!Csharp\CommissionCalculator\CommissionCalculator\obj\Debug\CommissionCalculator.pdb
